@@ -1,0 +1,10 @@
+[Columns]
+
+Column                         |   Detail
+===============================|=============================
+                               |
+Country                        | 국가
+Subject Descriptor             | 제목 설명자
+Units                          | 화폐 단위
+Country/Series-specific Notes  | 규모
+2015                           | 2015년 GDP
