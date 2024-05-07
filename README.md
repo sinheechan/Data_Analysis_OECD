@@ -7,3 +7,6 @@ Kaggle 데이터 분석 과정을 담은 내용입니다.
 <br/>
 
 ## WorkFlow Summary
+
+- LinearRegression 을 활용한 국민 삶 만족도 예측
+- 절편과 기울기 시각화 및 Train Feature에 따른 과적합 한계점 도출
